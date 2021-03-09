@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApplicationWorkApi</string>
+    <string name="product_list_title">Lista de Produtos</string>
+</resources>
